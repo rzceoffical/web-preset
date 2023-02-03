@@ -1,0 +1,16 @@
+{
+	"name": "web-preset",
+	"version": "1.0.0",
+	"description": "A preset for fast and easy front-end / web-dev projects / tests",
+	"author": "rzceoffical",
+	"scripts": {
+		"start": "parcel src/index.html",
+		"build": "parcel build src/index.html"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@parcel/transformer-sass": "2.8.3",
+		"parcel": "^2.8.3",
+		"prettier": "^2.8.3"
+	}
+}
