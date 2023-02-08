@@ -1,6 +1,6 @@
 {
 	"name": "web-preset",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "A preset for fast and easy front-end / web-dev projects / tests",
 	"author": "rzceoffical",
 	"scripts": {
